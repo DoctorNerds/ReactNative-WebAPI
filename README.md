@@ -41,7 +41,7 @@ Hoje em dia vivemos uma era onde o compartilhamento de dados, sua utilização e
 		- O dispositivo faz uma REQUISIÇÃO para a API, que PROCESSA isso em um SERVIDOR. Por sua vez, o SERVIDOR retorna um RESULTADO para a API, que finaliza o ciclo de informação enviando a RESPOSTA para o dispositivo.
 	- Ela pode mudar o dia a dia da empresa, agregando simplicidade, agilidade e automação dos sistemas.
 	- Pode integrar diferentes sistemas para maior eficiência na hora do uso.
-	- Tem uma função estratégica na rotina das empresas, já que existem diversos sistemas e aplicativos usados em um negócios, onde todos os recursos interagem com outros softwares, nas APIs.
+	- Tem uma função estratégica na rotina das empresas, já que existem diversos sistemas e aplicativos usados em negócios, onde todos os recursos interagem com outros softwares, nas APIs.
 	- Uma API possui todo um código back-end por trás.
 	- Fake API é uma simulação de uma API normal, muito usada durante o desenvolvimento de uma aplicação. As rotas de requisições já são pré-definidas e ela agiliza o processo de simulação de uma aplicação, facilitando os testes iniciais da criação de um App.
 	- Web API é um serviço que conecta um aplicativo a um banco de dados, permitindo fazer requisições para ler, editar e apagar informações.
@@ -95,44 +95,3 @@ Agora, digite para iniciar o projeto:
 ```
 npm start
 ```
-
-
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
-- [React Native][rn]
-- [Expo][expo]
-
-## :information_source: Como usar
-
-Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] intalados no seu computador.
-
-No terminal, digite os comandos a seguir:
-
-### Baixar e instalar o projeto
-
-```bash
-# Clonar esse repositório
-$ git clone https://github.com/alura-cursos/react-native-ficando-online.git
-
-# Vá para o ropositório
-$ cd AluraHub
-
-# Instale as dependências
-$ npm install
-```
-
-### Executar o Mobile
-
-```bash
-# Execute em outro terminal (dentro da pasta AluraHub)
-$ expo start
-```
-
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
-
-[nodejs]: https://nodejs.org/
-[expo]: https://docs.expo.dev/
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
